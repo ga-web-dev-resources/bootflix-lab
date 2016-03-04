@@ -43,4 +43,4 @@ You probably saw the bonus example inside of `movielayout.html`. Jane has create
 
 - The image source url will look like the following: `http://img.omdbapi.com/?i=tt2294629&apikey=d31f1a94`
 - Example: `<img src='http://img.omdbapi.com/?i=tt2294629&apikey=d31f1a94' alt='Frozen'>`
-- You will be using the following **apikey**: `d31f1a94`; DO NOT SHARE THIS OUTSIDE OF THIS CLASS.
+- You will be using the following **apikey**: `d31f1a94`. Do not use this key outside of this project.
