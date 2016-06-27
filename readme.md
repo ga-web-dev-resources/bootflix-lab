@@ -1,3 +1,15 @@
+---
+title:  Bootflix
+type: lab
+duration: "1:25"
+creator:
+    name: James Traver
+    city: CHI
+---
+
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Bootflix
+
+
 <img src="bootflix-logo.png" alt="Bootflix">
 ###Summary
 
